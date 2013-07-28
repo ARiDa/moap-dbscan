@@ -1,0 +1,1000 @@
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417351.7532605623
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417536.827982983
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417099.85585978325
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416727.70039269206
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417536.270192455
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417101.082993464
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417644.48161470937
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416732.83202319033
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417389.2367203056
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417120.94024972187
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417427.50110030704
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417557.57779291307
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416963.97878934786
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417651.1751086887
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416859.33795586164
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417509.4962508304
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417404.63171687
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416956.1697680545
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416887.4504075804
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417451.59762719035
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417164.5592930907
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416717.5486896762
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416727.0310496036
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416983.2782303654
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417280.24467639136
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416953.0461597123
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417256.48286516493
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416875.848442399
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417455.50215756963
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417005.1434976287
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416815.8306060472
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416913.1086047016
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417374.0648420087
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417335.80048295506
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416869.04344423156
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417281.02558108437
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417023.43892909825
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417108.7804687253
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416716.43311798025
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417331.449725878
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417559.6973974028
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417152.9572949998
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416859.8957425231
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417275.0014593331
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417584.79798037466
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417033.2559912992
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417010.8329302188
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416800.8819313506
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416758.3786225028
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417446.1312849217
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416843.4968159945
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417235.510003723
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417322.1904230014
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417531.138519741
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417085.6880447621
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417315.9431830032
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417390.6869735019
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417534.2621465773
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416929.28442808794
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417426.6086364616
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417283.14517956704
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417592.0492611014
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284851.619521002,-417604.5437768513
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417281.8064857837
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417501.9103020406
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417088.58854215784
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417563.49037397077
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417067.8388319127
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416853.53697476705
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417053.00167621387
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417428.95135407144
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416822.9702723804
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417041.06501875515
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417553.67325844977
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416798.2045570192
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417643.2544741972
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417258.4909053274
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417431.18251375144
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416839.7038673924
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416880.422293893
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4284851.619521002,-417596.0653552753
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416983.5013453137
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417313.2657945536
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416887.6735223092
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417113.4658887472
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417323.30600161484
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417317.05876154534
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417498.0057698027
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416950.1456663404
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417420.91917964595
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416860.78820118937
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417138.5663569731
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416744.5455285974
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416997.33447304385
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417503.9183472504
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417128.0799383513
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416887.4504075804
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417219.7803605977
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417308.5803649457
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417145.4829315741
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417617.4845269929
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417488.30021892284
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417056.6830755387
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417141.5784135947
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417378.7502747605
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417460.52226828627
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417305.34518749
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417204.0507200054
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417612.4644081998
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417277.34417330317
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417636.3378643224
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417195.68389093695
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417350.74923951767
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417420.13827383413
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417504.58769566333
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417422.14631736337
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417198.1381607229
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417026.8972122607
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417487.29619647213
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417364.02462972706
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417466.99263359193
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417205.8356436328
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417012.06006278086
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284856.851537068,-417615.36492124875
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416885.66548977006
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416960.74362330785
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417578.7738398718
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417543.07523712167
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416773.88507687073
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417280.3562342049
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416841.04255511815
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417546.8682130434
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417178.6155618571
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417250.0125138133
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417511.7274123518
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417440.9996169481
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417352.0879342465
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417574.199955665
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417413.7794696011
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417484.17257113877
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417299.8788534119
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417642.13889192604
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417468.5544459703
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416804.6748784452
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417575.4270953098
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416928.50352620776
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417098.6287261171
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416999.3425078778
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417054.78659708117
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417623.5086698854
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417636.784097203
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416767.52631471073
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417410.32117273635
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417082.22975951835
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417216.99141704506
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417278.68286702613
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416775.66999263916
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417331.78439949325
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417389.45983617986
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416795.0809537263
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417263.7341214991
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417388.45581474714
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284698.666540652,-417655.5258800212
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417522.77166263486
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417557.9124673045
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416746.107329423
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417066.1654683764
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417192.3371595092
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417415.56439706305
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417493.32033132756
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417359.33919768204
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416788.6106329352
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417137.78545342
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416840.9309978068
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416742.0912702044
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417406.86287599284
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416936.8703323918
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417270.09291595785
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417168.79848504654
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417102.86791520973
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416906.8613908681
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417116.143271716
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416926.1608206048
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417637.0072136435
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416930.4000022132
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416748.7847023281
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417397.3804500696
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416863.6886919087
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417343.3864188347
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417275.3361327541
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417256.2597495939
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417407.643781698
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416712.30550281587
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417065.8307956709
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416771.31926051015
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417619.6041327829
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417244.09995174775
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417480.60271373705
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416957.39689993154
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417355.7693448466
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416963.4210020922
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416725.9154778011
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417623.3971116794
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416881.87253953284
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416820.62756930775
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416850.74804167164
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417202.93514275434
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416800.5472595559
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416745.7726578158
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417241.422565269
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4284856.851537068,-417609.8985698053
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417008.2671076367
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417374.8457474518
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416783.92522849253
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416762.8409112782
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417128.0799383513
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416843.27370136575
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417364.8055350901
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417321.4095179791
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417471.23183867923
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417075.4247469759
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417057.24086332665
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417074.75540150504
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417336.1351565855
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417170.3602926539
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416772.99261899816
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417185.0859084772
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416819.95822558284
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417374.62263160956
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417208.401471405
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417474.4670216334
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417576.76579312095
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416873.6172954062
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417064.4921048664
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417449.58958305506
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417048.3162590932
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416872.5017219295
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417641.0233096679
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417385.22063464427
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284698.666540652,-417637.3418883055
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417201.3733346259
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416812.9301167477
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417514.2932481649
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417430.7362818111
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417335.01957782527
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416877.9680320892
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416875.95999975037
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416748.8962595344
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417399.723166976
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416797.20054166386
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417275.559248368
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417228.81653825275
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417329.7763578234
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416989.30233412347
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417243.76527843426
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416775.66999263916
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417214.4255890468
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417542.8521208959
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417334.4617884492
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417251.68588050234
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416762.7293540556
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417393.92215378437
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416747.6691302759
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417499.45602461573
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417404.85483277927
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417075.3131893962
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417517.1937582954
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417357.3311554452
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417201.03866145876
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417445.2388209076
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416938.32057886984
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417111.68096680776
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417042.1805941562
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417239.97231428995
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416888.5659812277
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416906.3036039388
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417170.0256195929
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416952.8230448338
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416823.7511734175
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417276.6748264488
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416833.90288746473
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417397.6035659626
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417286.4919141068
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416956.392882939
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417050.99364027835
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416951.81902788987
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416824.1974025848
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417068.50817733584
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417066.0539108075
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417012.61785031535
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417162.88592789683
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417452.60164927284
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417258.37934753863
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417403.96236914134
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417371.3874519649
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417463.64589286246
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416854.0947613952
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416832.6757571386
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416844.94706108654
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417593.83419182576
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416952.9346022729
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417119.82467342005
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416952.599929957
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416859.7841851911
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417529.13047397067
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416942.55976100586
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416898.7177020083
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417592.3839356111
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417239.97231428995
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416984.84003500803
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417628.7519056686
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417435.97950723453
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416884.9961456001
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417463.0881027529
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416830.2214965345
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417117.1472903498
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416814.7150332293
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416904.63024316914
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417638.1227958556
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416956.8391127117
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416810.8105284685
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417249.0084938148
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284698.666540652,-417639.90772742184
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417270.2044737594
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417085.1302568118
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417336.02359870874
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417477.1444145048
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417524.668150182
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417202.82358503086
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417149.16433438275
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417132.5422440107
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417313.15423670266
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417566.6140018428
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417040.7303461359
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417085.0186992211
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416716.54467514984
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417284.3723155521
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417468.33132991474
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416972.6802709535
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416760.609766865
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417581.45123560546
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417107.2186621011
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416812.4838876323
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417447.3584229555
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417318.6205715245
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417515.40882897377
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416920.1367207394
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417574.08839751553
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417261.83763902035
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417064.4921048664
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417411.1020784696
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417235.6215614836
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417424.93526677595
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417406.63976007834
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417447.1353069474
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416805.6788938766
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417220.0034760849
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416881.09163803124
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417107.6648925629
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417583.57084061217
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417469.11223611265
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417638.0112376337
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,3,None,<1 min,None,-4287765.2958730245,-416752.57764740055
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417446.35440092575
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416888.78909596
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416917.3477857431
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417322.3019808623
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416802.33217581065
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417235.0637726771
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417361.57035577105
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417492.09319271485
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417359.11608187493
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,3,None,<1 min,None,-4285251.033853968,-417488.18866087194
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417571.8572345693
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417179.17335034313
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416939.2130382507
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417004.25103764416
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417153.62664100586
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417411.99454217136
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417167.90602356644
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416789.9493199602
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417164.89396613324
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,3,None,<1 min,None,-4284856.851537068,-417618.3769925822
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417075.5363045538
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417329.55324208573
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417324.3100223773
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416963.30944464135
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417253.9170361289
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416770.9845888159
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417573.86528121954
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417067.28104406357
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417478.25999488926
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,3,None,<1 min,None,-4286845.908198562,-416867.2585267578
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417049.0971619318
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417325.0909274229
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417647.4936869436
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416833.90288746473
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416852.42140151875
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416949.25320685783
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417204.49695090984
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416816.83462159353
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417618.1538761847
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417242.9843740394
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417213.75624262413
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417171.58742722176
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417156.86181343463
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417605.9940332474
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417561.2592112655
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417059.0257842704
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416993.65307595715
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416952.0421427666
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417481.0489459055
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417046.196665708
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417243.43060512154
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417085.9111599439
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417066.5001410814
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417045.08109025983
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416862.12688920245
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417193.0065057857
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417245.10397169564
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417194.3451983512
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416746.77667264256
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417602.4241713886
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417066.2770259436
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417068.73129247763
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417434.9754853238
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416947.9145176515
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417087.0267358567
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416747.6691302759
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417146.82162348856
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417325.2024852868
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417079.66393506096
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417226.8084987019
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417245.21552946913
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416906.8613908681
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416719.33360441565
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416882.54188368196
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417466.43484346103
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284698.666540652,-417650.5057592704
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417209.2939332551
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417551.21897972387
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417509.4962508304
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417092.7161732173
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416839.7038673924
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417389.79450999346
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417338.4778720222
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417458.0679919037
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417028.01278750075
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417560.8129787313
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416818.73109543213
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417164.00150468986
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417007.4862051253
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416817.0577361615
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417302.7793571702
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417280.021560767
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416980.7124085085
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417104.42972176423
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417419.24581005727
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416937.428119496
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416946.129598737
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416751.9083041422
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417215.9873973859
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416871.60926315736
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416909.9849977358
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417220.78438029607
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416987.85208688845
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417460.4107102676
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417030.913283185
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-417030.0208229647
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417181.8507351133
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416727.5888355119
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416853.76008941774
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416941.44418674125
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417179.73113883025
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417219.44568736583
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417061.8147233127
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416818.84265271807
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416737.852096764
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-417029.4630353318
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417059.9182447557
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417031.1363982401
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417446.912190941
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417088.1423117832
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416863.5771345709
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417191.66781323805
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417442.5614289113
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417624.51269373676
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416928.8381984408
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417066.2770259436
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4284851.619521002,-417590.26433041086
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417648.60926927585
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417495.88616665476
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416834.9069031966
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417608.0020805997
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416917.4593431423
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417453.0478813126
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416912.99704730744
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416868.37410017534
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284856.851537068,-417613.2453155497
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417180.17736962304
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417398.4960295424
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417196.68791038694
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416886.33483394614
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417086.0227175336
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417241.98035411304
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417443.5654509011
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416740.64102663856
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417165.1170814966
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416889.01221069106
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417398.4960295424
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,11,None,<1 min,None,-4285414.673505434,-417369.7140832263
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417344.5019976907
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416991.9797136897
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416903.96089886926
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416741.6450414135
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417270.53914716374
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,11,None,<1 min,None,-4286845.908198562,-416897.82524299534
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417580.67032850866
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417325.98339033965
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417188.65575507184
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417279.4637717056
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416950.25722377497
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,11,None,<1 min,None,-4285014.145977559,-417556.0159791096
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417001.35054275213
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417548.76470105996
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416817.0577361615
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416807.57536749897
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417113.1312158805
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417111.9040820476
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417655.19120529655
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417313.15423670266
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417339.81656658254
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417637.23033008596
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417030.5786106019
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417342.0477242251
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417066.3885835118
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416820.29289744445
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417059.58357207343
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417518.97868764936
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417226.585383199
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417563.1556995618
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417035.26402687177
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417401.9543259875
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416908.75786645437
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416754.69723441714
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417515.07415473054
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416922.36786879494
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4284856.851537068,-417624.7358101488
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417266.5230663856
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417439.10313102714
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417613.2453155497
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417268.642664553
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416777.1202367246
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416725.5808062608
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417377.1884638174
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416763.6218118331
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417318.28589795507
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417505.0339279411
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417627.970998193
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417025.44696446793
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417215.8758396458
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417308.80348063685
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417642.5851248336
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417554.56572345673
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417057.35242088506
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417035.26402687177
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416757.8208364214
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417553.78481657547
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417006.92841762153
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417353.8728605802
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417069.1775227634
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417566.5024437036
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416953.60394690814
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417231.3823666282
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417247.2235693984
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417605.54780050786
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417136.0005310362
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417405.85885438113
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417216.65674382413
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417263.84567929304
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417020.0922035731
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416963.19788719015
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416870.93991908204
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417625.18204297667
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416813.04167402745
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417409.20559312834
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417552.4461190794
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417166.7904467285
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416969.6682195401
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417524.668150182
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417357.44271334686
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417026.11630960007
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417489.8620316424
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416869.04344423156
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416923.59500024724
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417317.05876154534
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417356.996481743
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416940.32861249027
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416755.3665776953
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417324.979369558
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417318.06278224365
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417034.371566612
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416866.81229739444
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416839.2576381561
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417498.6751181766
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417544.86016694916
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416759.7173091136
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416771.8770466691
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417501.0178375147
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417256.14819180866
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417312.3733317547
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417391.244763197
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416775.66999263916
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284851.619521002,-417602.4241713886
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416767.52631471073
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417578.8853980261
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416775.00064922223
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416758.8248513721
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417161.54723576235
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417139.12414522853
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417244.32306729036
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284851.619521002,-417592.1608192709
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416747.2229014584
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416886.78106339776
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417329.88791569375
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417036.7142748102
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416896.59811186854
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417489.97358969535
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417142.3593171767
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417087.0267358567
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417098.29405330174
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417159.5391975931
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416740.75258383545
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416872.2786072355
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417223.2386507126
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417131.42666757724
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417259.49492542294
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416829.4405954454
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417547.4260036333
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417461.4147324401
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417332.67686247034
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416956.7275552687
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4284856.851537068,-417613.9146647133
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416827.76723599114
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416964.20190425223
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4285251.033853968,-417514.8510385687
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417389.45983617986
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4286618.593798363,-417118.9322123895
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417192.0024863732
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4285414.673505434,-417406.08197029476
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416884.4383587959
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,20,None,<1 min,None,-4287765.2958730245,-416792.8498085774
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417419.3573680296
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417158.8698515472
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416985.1747074341
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417404.07392709574
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417120.71713446145
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,20,None,<1 min,None,-4285014.145977559,-417562.8210251538
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4284851.619521002,-417607.2211732907
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416871.16303377383
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416747.6691302759
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417141.91308655776
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416816.9461788774
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,11,None,05 min,None,-4286618.593798363,-417050.99364027835
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4284856.851537068,-417618.04231798544
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,18,None,<1 min,None,-4285414.673505434,-417369.37940948206
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4285414.673505434,-417438.76845704473
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,19,None,<1 min,None,-4285251.033853968,-417469.78158428636
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417454.7212514807
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,9,None,<1 min,None,-4287765.2958730245,-416806.4597947756
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,11,None,05 min,None,-4286845.908198562,-416938.2090214475
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417307.6879021893
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,18,None,<1 min,None,-4287765.2958730245,-416777.6780229169
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417232.9441752384
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417316.5009722718
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417047.20068362134
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,9,None,<1 min,None,-4286618.593798363,-417056.6830755387
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,11,None,05 min,None,-4286845.908198562,-416921.2522947607
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416883.88057199284
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,18,None,<1 min,None,-4285414.673505434,-417422.3694333123
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417266.6346241837
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,19,None,<1 min,None,-4286845.908198562,-416963.4210020922
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416833.56821555656
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,9,None,<1 min,None,-4286845.908198562,-416933.300494999
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286179.772365656,-417313.37735240493
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417280.021560767
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,19,None,<1 min,None,-4286845.908198562,-416887.4504075804
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,18,None,<1 min,None,-4287765.2958730245,-416776.3393360606
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417440.9996169481
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286618.593798363,-417049.2087194808
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286618.593798363,-417119.6015581624
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417281.91804359655
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,18,None,<1 min,None,-4286618.593798363,-417117.7050784829
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417318.1743400988
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416970.67223666905
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417093.7201916083
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4285251.033853968,-417472.905209159
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,14,None,<1 min,None,-4286845.908198562,-416928.6150836191
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,13,None,<1 min,None,-4286845.908198562,-417018.19572582626
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416858.55705453973
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416786.82571693044
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416802.7784048787
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416856.5490226003
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,14,None,<1 min,None,-4286845.908198562,-416921.69852437306
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,13,None,<1 min,None,-4286845.908198562,-416886.33483394614
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416725.803920621
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417390.5754155624
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4284698.666540652,-417656.0836712312
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4287765.2958730245,-416841.6003416749
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,14,None,<1 min,None,-4286845.908198562,-416873.1710660137
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,13,None,<1 min,None,-4284856.851537068,-417619.82724918425
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417356.55025014386
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417349.29898691474
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285014.145977559,-417540.0631681115
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416924.1527872751
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,14,None,<1 min,None,-4284856.851537068,-417634.6644910397
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,13,None,<1 min,None,-4287765.2958730245,-416788.49907568365
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417238.8567366292
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4284856.851537068,-417611.68350085476
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416715.3175462966
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4285251.033853968,-417505.1454860115
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416907.97696473775
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286845.908198562,-416920.02516333957
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417550.438072869
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417283.256737383
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,17,None,<1 min,None,-4286179.772365656,-417309.47282771126
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417326.3180639349
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,17,None,<1 min,None,-4284851.619521002,-417603.9859859347
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-417026.3394246461
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,17,None,<1 min,None,-4284851.619521002,-417596.95782067016
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,15,None,04 min,None,-4286618.593798363,-417106.3262011856
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4287765.2958730245,-416850.6364843492
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,17,None,<1 min,None,-4285014.145977559,-417537.6088897289
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417194.90298692696
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416756.59370705066
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,15,None,04 min,None,-4284856.851537068,-417625.2936011843
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4286179.772365656,-417145.2598162558
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,17,None,<1 min,None,-4287765.2958730245,-416780.35539668624
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4287765.2958730245,-416842.0465709238
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417445.2388209076
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,15,None,04 min,None,-4286618.593798363,-417114.0236768592
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4286845.908198562,-416996.1073406667
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,17,None,<1 min,None,-4285414.673505434,-417438.88001503795
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4287765.2958730245,-416757.59772198804
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417551.88832846103
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4286845.908198562,-416875.6253276968
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416937.2050046541
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4285414.673505434,-417337.80852474866
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417058.91422671144
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4284851.619521002,-417605.21312595444
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417327.43364259583
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,20,None,03 min,None,-4284698.666540652,-417641.9157754738
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,19,None,<1 min,None,-4284856.851537068,-417619.6041327829
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,16,None,<1 min,None,-4286845.908198562,-416890.01622698887
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,18,None,<1 min,None,-4285014.145977559,-417564.940629756
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,18,None,<1 min,None,-4286618.593798363,-417050.21273742535
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286618.593798363,-417071.7433469446
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416999.45406536927
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,20,None,03 min,None,-4285414.673505434,-417385.5553084433
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417186.31304323004
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,16,None,<1 min,None,-4284856.851537068,-417618.1538761847
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,18,None,<1 min,None,-4286845.908198562,-416920.8060651508
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,18,None,<1 min,None,-4286845.908198562,-416901.6181938536
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-417016.6339206518
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416787.49506042805
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,20,None,03 min,None,-4284856.851537068,-417625.85139222094
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,19,None,<1 min,None,-4284856.851537068,-417629.42125493754
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,16,None,<1 min,None,-4285014.145977559,-417559.8089555341
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,18,None,<1 min,None,-4285251.033853968,-417521.2098493874
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,18,None,<1 min,None,-4287765.2958730245,-416722.56876246515
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416767.52631471073
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417581.56279376266
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4286618.593798363,-417071.96646209375
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416894.2554070294
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416847.1782074254
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4285414.673505434,-417398.4960295424
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4287765.2958730245,-416810.0296275349
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416938.878365982
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4286179.772365656,-417161.770351116
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286618.593798363,-417075.4247469759
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417155.96935206355
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4285251.033853968,-417492.65098299016
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4284851.619521002,-417589.03719058103
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417265.96527740237
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286618.593798363,-417122.5020565657
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4286845.908198562,-416938.2090214475
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417317.95122438745
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,17,None,<1 min,None,-4286179.772365656,-417176.1612925618
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416845.281733034
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286618.593798363,-417101.1945510726
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4286179.772365656,-417149.94523802714
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417322.4135387242
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,17,None,<1 min,None,-4286179.772365656,-417170.58340803004
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416796.7543126201
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286845.908198562,-416949.3647642934
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417249.5662827031
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417160.3201013209
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417116.9241750967
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4284851.619521002,-417588.4793997527
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-417017.19170821126
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4286179.772365656,-417210.9672992441
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4286179.772365656,-417320.963286542
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,19,None,<1 min,None,-4286618.593798363,-417064.9383351331
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,16,None,<1 min,None,-4285414.673505434,-417439.549363004
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416723.3496626998
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4286179.772365656,-417196.68791038694
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4287765.2958730245,-416851.3058282834
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,19,None,<1 min,None,-4286179.772365656,-417208.8477023288
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,16,None,<1 min,None,-4285414.673505434,-417402.06588394014
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417079.8870502279
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4287765.2958730245,-416727.0310496036
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4284851.619521002,-417589.03719058103
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,19,None,<1 min,None,-4286845.908198562,-416880.8685233187
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,16,None,<1 min,None,-4285414.673505434,-417351.3070289853
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417466.10016938567
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,12,None,05 min,None,-4287765.2958730245,-416805.90200841945
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4287765.2958730245,-416773.77351963567
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,15,None,<1 min,None,-4286845.908198562,-417027.5665574029
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,18,None,<1 min,None,-4284698.666540652,-417653.9640646488
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417174.71104255243
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,12,None,05 min,None,-4286179.772365656,-417230.1552313106
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4287765.2958730245,-416739.63701187435
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,15,None,<1 min,None,-4285014.145977559,-417574.199955665
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,18,None,<1 min,None,-4286179.772365656,-417200.5924305703
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416868.03942814865
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,12,None,05 min,None,-4287765.2958730245,-416748.00380188966
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4286845.908198562,-417029.9092654384
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,15,None,<1 min,None,-4285414.673505434,-417361.9050294888
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,18,None,<1 min,None,-4286179.772365656,-417143.69800905016
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416837.02649199887
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4286618.593798363,-417093.4970764088
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4285414.673505434,-417394.47994350013
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,17,None,<1 min,None,-4286618.593798363,-417039.9494433662
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4286845.908198562,-416966.3214958586
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285251.033853968,-417511.9505285079
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4285414.673505434,-417449.143351032
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4285414.673505434,-417338.3663141423
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,17,None,<1 min,None,-4286845.908198562,-416978.815931526
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4286618.593798363,-417112.68498539383
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416757.8208364214
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4285014.145977559,-417561.9285600713
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,15,None,<1 min,None,-4285414.673505434,-417417.12620862
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,17,None,<1 min,None,-4287765.2958730245,-416740.1947978539
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4287765.2958730245,-416830.333053834
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417055.00971219275
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,14,None,<1 min,None,-4287765.2958730245,-416843.4968159945
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416929.8422151485
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,14,None,<1 min,None,-4285414.673505434,-417399.5000510784
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417402.06588394014
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,14,None,<1 min,None,-4286179.772365656,-417206.61654773017
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417534.93149519974
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286845.908198562,-416933.85828208266
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,13,None,<1 min,None,-4287765.2958730245,-416767.0800858026
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,15,None,<1 min,None,-4285014.145977559,-417547.4260036333
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,18,None,<1 min,None,-4286179.772365656,-417185.4205815898
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416917.12467094767
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286618.593798363,-417049.76650722575
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,13,None,<1 min,None,-4286845.908198562,-417024.5545042989
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,15,None,<1 min,None,-4286845.908198562,-416964.4250191554
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,18,None,<1 min,None,-4286845.908198562,-416882.98811311694
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285014.145977559,-417550.438072869
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286179.772365656,-417307.6879021893
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,13,None,<1 min,None,-4286618.593798363,-417120.94024972187
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,15,None,<1 min,None,-4286179.772365656,-417231.6054821432
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,18,None,<1 min,None,-4287765.2958730245,-416724.5767916524
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417275.11301713897
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,16,None,<1 min,None,-4286845.908198562,-416877.85647473513
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,10,None,<1 min,None,-4285414.673505434,-417409.76338293025
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,12,None,<1 min,None,-4287765.2958730245,-416787.04883142916
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417408.42468741036
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,16,None,<1 min,None,-4284856.851537068,-417634.6644910397
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,10,None,<1 min,None,-4287765.2958730245,-416716.54467514984
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,12,None,<1 min,None,-4286179.772365656,-417263.1763325315
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416808.13315386465
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,16,None,<1 min,None,-4285251.033853968,-417503.80678918184
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,10,None,<1 min,None,-4285414.673505434,-417402.06588394014
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,12,None,<1 min,None,-4285414.673505434,-417460.29915224935
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416940.4401699148
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,13,None,04 min,None,-4286618.593798363,-417039.7263282893
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,13,None,<1 min,None,-4285414.673505434,-417425.9392885842
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,16,None,<1 min,None,-4285251.033853968,-417520.5405008608
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4286179.772365656,-417213.8678003612
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4286618.593798363,-417094.2779796083
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417112.3503125311
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,13,None,04 min,None,-4287765.2958730245,-416762.61779683334
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,13,None,<1 min,None,-4285414.673505434,-417399.05381928245
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,16,None,<1 min,None,-4285014.145977559,-417531.80786834034
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4285414.673505434,-417456.6177377067
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4287765.2958730245,-416787.38350317784
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417270.9853783715
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,13,None,04 min,None,-4286845.908198562,-417017.86105328676
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,13,None,<1 min,None,-4286618.593798363,-417129.6417453091
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,16,None,<1 min,None,-4287765.2958730245,-416802.7784048787
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4285414.673505434,-417381.9854546485
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417181.8507351133
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416905.968931783
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,13,None,04 min,None,-4284856.851537068,-417621.0543894031
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,13,None,<1 min,None,-4284856.851537068,-417630.5368370634
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,16,None,<1 min,None,-4285014.145977559,-417571.18788569537
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,13,None,<1 min,None,-4286845.908198562,-416934.5276265877
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417259.2718098456
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416953.60394690814
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4286179.772365656,-417279.5753295176
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4284698.666540652,-417649.2786186812
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4285014.145977559,-417574.42307196365
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,16,None,<1 min,None,-4285251.033853968,-417470.4509324645
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416865.0273799615
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,16,None,<1 min,None,-4287765.2958730245,-416826.986334922
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4285251.033853968,-417527.5686606207
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4285014.145977559,-417577.10046757647
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4286618.593798363,-417045.41576289333
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,16,None,<1 min,None,-4285414.673505434,-417437.9875510896
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417172.59144642414
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,16,None,<1 min,None,-4286618.593798363,-417108.668911108
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,14,None,<1 min,None,-4285251.033853968,-417495.10526024445
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,18,None,<1 min,None,-4286179.772365656,-417300.2135269196
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,12,None,<1 min,None,-4284856.851537068,-417616.034270426
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,16,None,<1 min,None,-4284856.851537068,-417618.1538761847
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4284698.666540652,-417642.8082412875
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,14,None,<1 min,None,-4285014.145977559,-417567.9526995341
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,18,None,<1 min,None,-4286845.908198562,-416942.55976100586
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,12,None,<1 min,None,-4285014.145977559,-417545.52951564273
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,16,None,<1 min,None,-4286618.593798363,-417085.9111599439
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417319.4014765244
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,14,None,<1 min,None,-4286845.908198562,-416891.68958751066
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,18,None,<1 min,None,-4285014.145977559,-417534.15058847546
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,12,None,<1 min,None,-4285251.033853968,-417519.9827104243
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,16,None,<1 min,None,-4286618.593798363,-417123.05984472943
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417236.9602546354
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,14,None,<1 min,None,-4286179.772365656,-417285.1532202764
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,18,None,<1 min,None,-4287765.2958730245,-416730.0430935389
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,12,None,<1 min,None,-4286179.772365656,-417159.2045245693
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,16,None,<1 min,None,-4286618.593798363,-417115.0276954693
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417176.1612925618
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4285014.145977559,-417542.8521208959
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,20,None,<1 min,None,-4285414.673505434,-417405.5241805124
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4285414.673505434,-417344.83667134965
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,17,None,<1 min,None,-4286618.593798363,-417050.1011798746
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4284851.619521002,-417586.80602729094
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417294.1894039827
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,20,None,<1 min,None,-4287765.2958730245,-416751.68518972374
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417303.5602620428
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,18,None,03 min,None,-4286845.908198562,-416868.8203295452
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417300.8828739347
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416983.72446026077
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,17,None,<1 min,None,-4286845.908198562,-416919.46737633325
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416935.1969710965
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416919.6904911358
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,20,None,<1 min,None,-4285414.673505434,-417456.0599476357
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417399.9462828754
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4285251.033853968,-417528.79579967953
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417461.30317442166
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4286618.593798363,-417039.0569830639
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-417020.31531860423
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,20,None,<1 min,None,-4284698.666540652,-417635.7800732253
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417072.6358075463
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4286179.772365656,-417263.7341214991
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4286845.908198562,-416866.47762537334
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-417016.07613309415
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,15,None,<1 min,None,-4286179.772365656,-417280.021560767
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,17,None,<1 min,None,-4286179.772365656,-417234.8406571553
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4287765.2958730245,-416775.78154987574
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,14,None,<1 min,None,-4286618.593798363,-417092.38150042034
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417421.5885274893
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417435.64483326336
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4285414.673505434,-417343.05174518074
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,15,None,<1 min,None,-4287765.2958730245,-416843.27370136575
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,17,None,<1 min,None,-4286179.772365656,-417226.8084987019
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416895.25942338305
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,14,None,<1 min,None,-4285414.673505434,-417388.3442568103
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416788.49907568365
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4287765.2958730245,-416731.82800850703
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4286179.772365656,-417143.2517784237
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,15,None,<1 min,None,-4286179.772365656,-417200.1461996835
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,17,None,<1 min,None,-4285414.673505434,-417469.33535216906
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286618.593798363,-417114.2467921062
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,14,None,<1 min,None,-4286845.908198562,-416950.81501095666
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,0,None,0-8,None,-4285251.033853968,-417511.61585427594
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,0,None,0-8,None,-4285414.673505434,-417367.4829249512
+Av Antônio Sales,Av Sen Virgílio Távora,Av Eng Santana Júnior,20,None,<1 min,None,-4285414.673505434,-417359.6738713924
+Av Antônio Sales,R Mns Catão,Av Eng Santana Júnior,15,None,<1 min,None,-4285251.033853968,-417497.6710956191
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Eng Santana Júnior,17,None,<1 min,None,-4286618.593798363,-417124.28697870235
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4285414.673505434,-417437.09508714895
+Av Antônio Sales,Av Alm Henrique Sabóia,Av Alm Henrique Sabóia,14,None,<1 min,None,-4286618.593798363,-417102.53324237984
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,11,None,<1 min,None,-4287765.2958730245,-416717.43713250564
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,19,None,<1 min,None,-4285014.145977559,-417551.21897972387
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416907.0845056425
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,11,None,<1 min,None,-4286845.908198562,-416889.90466962295
+Av Antônio Sales,Av Eng Santana Júnior,Av Eng Santana Júnior,19,None,<1 min,None,-4286618.593798363,-417033.0328762387
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417203.04670047975
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4285251.033853968,-417486.7384062274
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4284856.851537068,-417613.57999013
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4286845.908198562,-416870.8283617376
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4284851.619521002,-417603.539753204
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286845.908198562,-416869.48967360577
+Av Antônio Sales,Av Rui Barbosa,Av Eng Santana Júnior,19,None,03 min,None,-4287765.2958730245,-416822.63560050906
+Av Antônio Sales,Av Br de Studart,Av Eng Santana Júnior,17,None,<1 min,None,-4286618.593798363,-417037.3836200196
+Av Antônio Sales,R Tibúrcio Cavalcante,Av Eng Santana Júnior,20,None,<1 min,None,-4284856.851537068,-417612.24129181413
+Av Antônio Sales,Av Des Moreira,Av Eng Santana Júnior,19,None,<1 min,None,-4287765.2958730245,-416838.2536223782
+Av Antônio Sales,Av Eng Santana Júnior,Av Alm Henrique Sabóia,0,None,0-8,None,-4286179.772365656,-417236.8486968717

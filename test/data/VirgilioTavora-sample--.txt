@@ -1,0 +1,1000 @@
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:03:02.332916
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:03:02.333120
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:03:02.333302
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:03:02.333481
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:03:02.333660
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:03:02.335350
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:03:02.335535
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:03:02.335715
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:03:02.335895
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:03:02.336075
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,40km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:08:29.225410
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:08:29.225599
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:08:29.225781
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:08:29.225962
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:08:29.226142
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:08:29.227886
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:08:29.228074
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,14km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:08:29.228287
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:08:29.228473
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,40km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:08:29.228654
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,40km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:13:56.668512
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:13:56.668705
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:13:56.668887
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:13:56.669069
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:13:56.669248
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:13:56.670961
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:13:56.671145
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,14km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:13:56.671325
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:13:56.671505
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,40km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:13:56.671685
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:19:24.118523
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,42km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:19:24.118713
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,44km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:19:24.118894
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:19:24.119073
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:19:24.119253
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:19:24.120943
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:19:24.121127
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,34km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:19:24.121308
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:19:24.121488
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,44km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:19:24.121686
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,40km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:24:51.547797
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:24:51.547987
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:24:51.548200
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:24:51.548388
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:24:51.548569
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:24:51.550265
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:24:51.550450
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,14km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:24:51.550631
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:24:51.550812
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,40km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:24:51.550992
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:30:19.070933
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:30:19.071122
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,27km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:30:19.071304
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:30:19.071485
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:30:19.071681
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:30:19.073370
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:30:19.073554
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:30:19.073736
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:30:19.073917
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:30:19.074096
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:35:46.652262
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:35:46.652450
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,27km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:35:46.652633
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:35:46.652812
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:35:46.652992
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:35:46.654682
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:35:46.654866
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:35:46.655048
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:35:46.655227
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:35:46.655407
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:41:13.981491
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:41:13.981683
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,27km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:41:13.981866
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:41:13.982047
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:41:13.982229
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:41:13.983912
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:41:13.984099
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:41:13.984281
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:41:13.984463
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:41:13.984644
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:46:49.931839
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:46:49.932028
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:46:49.932209
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:46:49.932389
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:46:49.932567
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:46:49.934268
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:46:49.934452
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:46:49.934632
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:46:49.934811
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:46:49.934990
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:52:18.094557
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:52:18.094747
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:52:18.094928
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:52:18.095109
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:52:18.095288
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:52:18.096973
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:52:18.097158
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:52:18.097338
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:52:18.097520
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:52:18.097699
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 05:57:46.275278
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 05:57:46.275468
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 05:57:46.275650
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 05:57:46.275830
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 05:57:46.276010
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 05:57:46.277700
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 05:57:46.277884
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 05:57:46.278080
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 05:57:46.278295
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 05:57:46.278480
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:03:15.597880
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:03:15.598069
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:03:15.598285
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:03:15.598470
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:03:15.598650
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:03:15.600341
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:03:15.600526
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:03:15.600706
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:03:15.600887
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:03:15.601068
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:08:43.573750
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:08:43.573939
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:08:43.574120
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:08:43.574300
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:08:43.574479
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:08:43.576160
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:08:43.576344
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:08:43.576524
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:08:43.576704
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:08:43.576883
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:14:10.792995
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,31km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:14:10.793232
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:14:10.793455
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:14:10.793676
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:14:10.793896
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:14:10.795996
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:14:10.796222
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:14:10.796443
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,40km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:14:10.796665
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,37km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:14:10.796885
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:19:43.841789
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,31km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:19:43.842023
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:19:43.842246
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:19:43.842466
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:19:43.842687
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:19:43.844768
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:19:43.844993
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:19:43.845215
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,40km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:19:43.845437
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,37km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:19:43.845659
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:25:11.018065
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,31km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:25:11.018291
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:25:11.018477
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:25:11.018658
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:25:11.018836
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:25:11.020523
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:25:11.020707
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:25:11.020889
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,40km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:25:11.021068
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,37km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:25:11.021249
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:30:38.722557
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:30:38.722747
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:30:38.722930
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:30:38.723110
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:30:38.723289
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:30:38.724975
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:30:38.725161
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:30:38.725342
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:30:38.725522
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:30:38.725703
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:36:05.681706
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,31km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:36:05.681896
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:36:05.682078
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:36:05.682258
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:36:05.682436
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:36:05.684120
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:36:05.684305
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:36:05.684485
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,40km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:36:05.684666
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,37km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:36:05.684846
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:41:32.924627
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:41:32.924818
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:41:32.925001
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:41:32.925181
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:41:32.925361
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:41:32.927052
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:41:32.927237
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:41:32.927418
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:41:32.927599
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:41:32.927779
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:47:00.971615
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:47:00.971804
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:47:00.971985
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:47:00.972165
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:47:00.972344
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:47:00.974028
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:47:00.974213
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:47:00.974394
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:47:00.974591
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:47:00.974774
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:52:27.899573
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:52:27.899762
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:52:27.899943
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:52:27.900124
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:52:27.900303
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:52:27.901987
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:52:27.902171
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:52:27.902352
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:52:27.902532
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:52:27.902713
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 06:57:55.186050
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 06:57:55.186240
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 06:57:55.186423
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 06:57:55.186603
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 06:57:55.186784
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 06:57:55.188523
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 06:57:55.188713
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 06:57:55.188895
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 06:57:55.189077
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 06:57:55.189258
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,0km/h,None,0-8,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:03:22.350320
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,0km/h,None,0-8,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:03:22.350508
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,0km/h,None,0-8,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:03:22.350689
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,0km/h,None,0-8,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:03:22.350888
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:03:22.351071
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:03:22.352797
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,0km/h,None,0-8,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:03:22.352981
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:03:22.353162
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,0km/h,None,0-8,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:03:22.353342
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,0km/h,None,0-8,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:03:22.353521
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,34km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:08:49.339493
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,41km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:08:49.339680
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,41km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:08:49.339861
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,41km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:08:49.340041
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:08:49.340221
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:08:49.341902
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,43km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:08:49.342086
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:08:49.342267
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:08:49.342447
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,36km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:08:49.342627
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,34km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:14:16.008614
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,41km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:14:16.008804
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,41km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:14:16.008986
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,41km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:14:16.009168
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:14:16.009348
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:14:16.011039
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,43km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:14:16.011225
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:14:16.011404
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:14:16.011585
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,36km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:14:16.011765
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,24km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:19:43.579225
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,23km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:19:43.579414
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,22km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:19:43.579596
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,23km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:19:43.579775
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,29km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:19:43.579955
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:19:43.581646
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,35km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:19:43.581832
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:19:43.582013
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:19:43.582193
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,38km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:19:43.582373
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,34km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:25:10.757111
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,41km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:25:10.757302
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,41km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:25:10.757483
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,41km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:25:10.757663
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:25:10.757843
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:25:10.759567
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,43km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:25:10.759751
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:25:10.759931
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:25:10.760112
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,36km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:25:10.760292
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,24km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:31:00.215499
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,23km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:31:00.215687
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,22km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:31:00.215869
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,23km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:31:00.216050
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,29km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:31:00.216230
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:31:00.217937
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,35km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:31:00.218123
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:31:00.218336
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:31:00.218522
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,38km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:31:00.218704
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:36:27.939368
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:36:27.939554
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:36:27.939735
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,36km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:36:27.939917
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,43km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:36:27.940097
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:36:27.941786
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:36:27.941971
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:36:27.942152
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:36:27.942334
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:36:27.942515
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,24km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:41:55.413870
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,23km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:41:55.414059
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,22km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:41:55.414241
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,23km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:41:55.414422
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,29km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:41:55.414602
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:41:55.416297
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,35km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:41:55.416481
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:41:55.416663
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:41:55.416844
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,38km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:41:55.417025
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:47:26.374480
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:47:26.374669
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:47:26.374850
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,36km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:47:26.375030
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,43km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:47:26.375211
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:47:26.376895
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:47:26.377080
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:47:26.377262
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:47:26.377442
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:47:26.377622
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:52:53.826866
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:52:53.827056
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:52:53.827237
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,36km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:52:53.827417
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,43km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:52:53.827597
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:52:53.829325
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:52:53.829511
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:52:53.829691
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:52:53.829871
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:52:53.830050
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 07:58:21.184640
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 07:58:21.184828
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 07:58:21.185009
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,36km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 07:58:21.185191
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,43km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 07:58:21.185380
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 07:58:21.187065
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 07:58:21.187249
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 07:58:21.187430
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 07:58:21.187610
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 07:58:21.187790
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:03:48.944932
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,23km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:03:48.945121
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,24km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:03:48.945305
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:03:48.945487
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:03:48.945669
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:03:48.947377
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:03:48.947564
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:03:48.947746
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,31km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:03:48.947928
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,33km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:03:48.948110
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:09:16.539722
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,23km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:09:16.539908
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,24km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:09:16.540089
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:09:16.540269
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,0km/h,None,0-8,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:09:16.540449
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:09:16.542134
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:09:16.542318
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:09:16.542498
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,31km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:09:16.542678
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,33km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:09:16.542858
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,30km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:14:46.576319
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:14:46.576509
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,24km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:14:46.576690
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,15km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:14:46.576872
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,17km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:14:46.577051
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,9km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:14:46.578771
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:14:46.578958
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:14:46.579140
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:14:46.579322
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,32km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:14:46.579502
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,22km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:20:14.988488
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,16km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:20:14.988679
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,15km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:20:14.988859
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,14km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:20:14.989039
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,32km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:20:14.989218
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:20:14.990903
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:20:14.991089
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:20:14.991269
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:20:14.991448
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,13km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:20:14.991628
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,22km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:25:46.426045
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,16km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:25:46.426233
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,15km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:25:46.426428
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,14km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:25:46.426609
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,32km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:25:46.426788
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:25:46.428506
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:25:46.428694
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:25:46.428875
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:25:46.429056
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,13km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:25:46.429236
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,16km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:31:52.413898
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,21km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:31:52.414086
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,22km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:31:52.414268
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,23km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:31:52.414448
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,42km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:31:52.414628
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,41km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:31:52.416308
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:31:52.416493
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:31:52.416690
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,22km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:31:52.416873
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:31:52.417053
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,22km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:37:29.081439
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,16km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:37:29.081627
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,15km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:37:29.081808
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,14km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:37:29.081989
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,32km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:37:29.082169
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:37:29.083857
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:37:29.084043
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:37:29.084225
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:37:29.084405
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,13km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:37:29.084586
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,16km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:42:57.447348
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,21km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:42:57.447535
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,22km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:42:57.447716
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,23km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:42:57.447895
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,42km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:42:57.448075
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,41km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:42:57.449813
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:42:57.449999
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:42:57.450180
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,22km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:42:57.450360
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:42:57.450539
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,16km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:48:25.664520
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,21km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:48:25.664708
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,22km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:48:25.664888
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,23km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:48:25.665069
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,42km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:48:25.665248
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,41km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:48:25.666934
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:48:25.667120
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:48:25.667301
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,22km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:48:25.667482
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:48:25.667663
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,16km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:53:54.294400
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,21km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:53:54.294589
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,22km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:53:54.294770
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,23km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:53:54.294950
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,42km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:53:54.295130
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,41km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:53:54.296818
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:53:54.297003
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:53:54.297182
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,22km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:53:54.297362
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:53:54.297541
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 08:59:23.618286
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,16km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 08:59:23.618476
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,23km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 08:59:23.618657
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,32km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 08:59:23.618839
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,34km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 08:59:23.619018
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 08:59:23.620727
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 08:59:23.620911
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 08:59:23.621091
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 08:59:23.621271
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,17km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 08:59:23.621452
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:04:53.686956
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,16km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:04:53.687144
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,23km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:04:53.687325
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,32km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:04:53.687505
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,34km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:04:53.687686
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:04:53.689401
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:04:53.689588
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:04:53.689770
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:04:53.689950
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,17km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:04:53.690131
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:10:24.815915
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,22km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:10:24.816102
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,37km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:10:24.816284
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:10:24.816465
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:10:24.816645
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:10:24.818366
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:10:24.818554
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:10:24.818735
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,35km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:10:24.818915
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,27km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:10:24.819095
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:16:01.095238
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,22km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:16:01.095429
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,37km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:16:01.095610
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:16:01.095791
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:16:01.095970
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:16:01.097652
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:16:01.097837
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:16:01.098020
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,35km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:16:01.098233
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,27km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:16:01.098419
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:21:39.629354
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,22km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:21:39.629543
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,37km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:21:39.629724
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:21:39.629906
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:21:39.630087
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:21:39.631776
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:21:39.631960
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:21:39.632141
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,35km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:21:39.632320
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,27km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:21:39.632501
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:27:08.914627
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,22km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:27:08.914828
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,37km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:27:08.915010
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:27:08.915190
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:27:08.915370
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:27:08.917061
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:27:08.917245
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,28km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:27:08.917425
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,35km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:27:08.917605
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,27km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:27:08.917783
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:33:22.435531
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,30km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:33:22.435719
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,45km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:33:22.435900
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,37km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:33:22.436096
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,34km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:33:22.436276
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:33:22.437966
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:33:22.438174
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:33:22.438363
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:33:22.438544
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,21km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:33:22.438724
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:39:00.021197
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,30km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:39:00.021384
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,45km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:39:00.021565
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,37km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:39:00.021746
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,34km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:39:00.021925
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:39:00.023617
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:39:00.023800
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,0km/h,None,0-8,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:39:00.023980
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:39:00.024175
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,21km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:39:00.024356
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,40km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:44:32.618931
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,34km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:44:32.619118
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,35km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:44:32.619299
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,28km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:44:32.619479
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,6km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:44:32.619658
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,11km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:44:32.621343
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:44:32.621527
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,22km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:44:32.621710
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,29km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:44:32.621890
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,33km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:44:32.622069
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:50:23.578826
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,30km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:50:23.579015
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:50:23.579196
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,38km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:50:23.579376
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,31km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:50:23.579558
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,34km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:50:23.581244
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:50:23.581429
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:50:23.581609
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:50:23.581789
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:50:23.581969
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 09:56:18.529092
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,30km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 09:56:18.529282
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 09:56:18.529463
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,38km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 09:56:18.529642
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,31km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 09:56:18.529820
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,34km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 09:56:18.531512
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 09:56:18.531694
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 09:56:18.531874
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 09:56:18.532054
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 09:56:18.532233
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:02:05.621636
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,30km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:02:05.621825
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:02:05.622007
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,38km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:02:05.622203
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,31km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:02:05.622384
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,34km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:02:05.624072
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:02:05.624258
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:02:05.624439
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:02:05.624620
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:02:05.624802
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,35km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:07:40.606150
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,30km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:07:40.606338
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,33km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:07:40.606520
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,38km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:07:40.606701
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,31km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:07:40.606881
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,34km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:07:40.608606
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:07:40.608793
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:07:40.608974
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:07:40.609170
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,30km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:07:40.609351
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:14:05.437260
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,15km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:14:05.437451
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,13km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:14:05.437633
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,20km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:14:05.437814
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,21km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:14:05.437994
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:14:05.439721
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:14:05.439908
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:14:05.440089
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:14:05.440270
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,19km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:14:05.440450
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:20:26.907516
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,15km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:20:26.907705
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,13km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:20:26.907886
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,20km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:20:26.908067
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,21km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:20:26.908283
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,32km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:20:26.909980
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:20:26.910166
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:20:26.910346
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:20:26.910528
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,19km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:20:26.910709
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,33km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:26:27.844634
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,45km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:26:27.844822
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,42km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:26:27.845004
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,42km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:26:27.845187
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:26:27.845367
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,29km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:26:27.847055
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:26:27.847239
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,29km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:26:27.847420
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:26:27.847600
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,31km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:26:27.847780
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,33km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:32:36.042248
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,45km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:32:36.042441
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,42km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:32:36.042624
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,42km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:32:36.042805
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,45km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:32:36.042984
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,29km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:32:36.044675
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,33km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:32:36.044861
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,29km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:32:36.045041
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:32:36.045221
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,31km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:32:36.045401
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,29km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:38:35.343737
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,40km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:38:35.343926
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,27km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:38:35.344109
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,34km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:38:35.344289
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,14km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:38:35.344469
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:38:35.346150
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:38:35.346335
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,31km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:38:35.346515
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:38:35.346696
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,25km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:38:35.346877
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,29km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:44:55.801065
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,40km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:44:55.801251
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,27km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:44:55.801432
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,34km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:44:55.801611
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,14km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:44:55.801790
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:44:55.803473
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:44:55.803658
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,31km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:44:55.803836
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:44:55.804030
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,25km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:44:55.804210
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:51:01.296112
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,19km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:51:01.296299
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,25km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:51:01.296481
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:51:01.296661
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,23km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:51:01.296840
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:51:01.298562
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:51:01.298749
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:51:01.298930
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:51:01.299110
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:51:01.299291
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,17km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 10:57:21.362793
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,19km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 10:57:21.362985
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,25km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 10:57:21.363167
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 10:57:21.363347
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,23km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 10:57:21.363527
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,0km/h,None,0-8,None,-4285473.127370049,-417644.2584982522,2013-03-08 10:57:21.365220
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 10:57:21.365405
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,25km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 10:57:21.365588
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 10:57:21.365769
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 10:57:21.365949
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:03:52.039448
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,11km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:03:52.039656
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,18km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:03:52.039839
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,24km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:03:52.040019
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,23km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:03:52.040200
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:03:52.041889
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:03:52.042074
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:03:52.042254
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:03:52.042434
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:03:52.042614
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:09:55.420533
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,11km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:09:55.420719
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,18km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:09:55.420899
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,24km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:09:55.421078
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,23km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:09:55.421257
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:09:55.422942
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:09:55.423139
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:09:55.423322
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:09:55.423503
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:09:55.423682
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:15:45.050502
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,11km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:15:45.050690
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,18km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:15:45.050872
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,24km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:15:45.051052
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,23km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:15:45.051233
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:15:45.052924
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:15:45.053112
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:15:45.053293
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:15:45.053475
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:15:45.053657
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:21:31.237295
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,11km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:21:31.237482
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,18km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:21:31.237663
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,24km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:21:31.237844
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,23km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:21:31.238024
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:21:31.239757
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:21:31.239943
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:21:31.240125
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:21:31.240305
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:21:31.240487
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,22km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:27:16.747698
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,18km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:27:16.747887
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,29km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:27:16.748069
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,37km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:27:16.748284
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,28km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:27:16.748469
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:27:16.750168
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:27:16.750353
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,22km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:27:16.750534
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:27:16.750715
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:27:16.750896
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,22km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:32:49.066019
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,18km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:32:49.066208
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,29km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:32:49.066389
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,37km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:32:49.066570
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,28km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:32:49.066750
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:32:49.068471
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:32:49.068659
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,22km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:32:49.068841
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:32:49.069022
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,22km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:32:49.069203
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:38:26.190223
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,20km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:38:26.190410
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:38:26.190591
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,25km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:38:26.190771
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:38:26.190952
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:38:26.192638
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:38:26.192837
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:38:26.193019
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:38:26.193200
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,26km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:38:26.193381
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:44:02.617121
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,20km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:44:02.617308
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:44:02.617488
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,25km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:44:02.617668
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:44:02.617848
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:44:02.619577
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:44:02.619763
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:44:02.619945
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:44:02.620124
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,26km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:44:02.620305
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:49:32.057065
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,20km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:49:32.057253
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:49:32.057435
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,25km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:49:32.057615
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:49:32.057795
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:49:32.059522
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:49:32.059708
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:49:32.059889
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:49:32.060068
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,26km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:49:32.060249
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 11:55:07.619391
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,20km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 11:55:07.619580
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 11:55:07.619762
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,25km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 11:55:07.619942
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 11:55:07.620122
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 11:55:07.621817
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 11:55:07.622002
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 11:55:07.622183
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 11:55:07.622364
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,26km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 11:55:07.622545
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:00:41.896342
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,20km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:00:41.896540
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:00:41.896727
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,25km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:00:41.896912
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:00:41.897096
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:00:41.899011
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:00:41.899208
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:00:41.899392
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:00:41.899576
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,26km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:00:41.899760
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:06:10.901229
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,20km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:06:10.901418
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:06:10.901600
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,25km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:06:10.901796
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:06:10.901977
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:06:10.903659
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:06:10.903845
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:06:10.904043
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:06:10.904238
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,26km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:06:10.904420
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:11:59.617303
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,20km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:11:59.617492
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,31km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:11:59.617674
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,25km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:11:59.617855
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:11:59.618034
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,37km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:11:59.619758
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,36km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:11:59.619945
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:11:59.620126
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,21km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:11:59.620320
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,26km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:11:59.620501
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,18km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:17:33.692409
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,19km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:17:33.692599
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,16km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:17:33.692781
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,17km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:17:33.692962
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,18km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:17:33.693143
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,14km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:17:33.694829
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:17:33.695013
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:17:33.695193
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:17:33.695374
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,24km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:17:33.695554
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,25km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:23:08.723716
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,14km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:23:08.723906
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,19km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:23:08.724088
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,20km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:23:08.724269
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:23:08.724449
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:23:08.726138
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:23:08.726322
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:23:08.726502
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:23:08.726683
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,19km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:23:08.726863
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,25km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:29:09.231339
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,14km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:29:09.231600
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,19km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:29:09.231824
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,20km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:29:09.232045
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:29:09.232265
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:29:09.234342
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:29:09.234567
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:29:09.234787
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:29:09.235006
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,19km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:29:09.235226
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,22km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:34:51.116172
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,15km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:34:51.116361
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,20km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:34:51.116557
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:34:51.116738
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,17km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:34:51.116917
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:34:51.118634
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:34:51.118821
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:34:51.119004
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:34:51.119183
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,23km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:34:51.119363
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,22km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:40:29.150812
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,15km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:40:29.150999
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,20km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:40:29.151181
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:40:29.151361
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,17km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:40:29.151542
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,45km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:40:29.153231
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:40:29.153416
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:40:29.153613
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:40:29.153794
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,23km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:40:29.153974
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,24km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:52:21.017177
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,14km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:52:21.017365
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,23km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:52:21.017547
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:52:21.017727
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,20km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:52:21.017907
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:52:21.019635
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:52:21.019820
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:52:21.020001
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:52:21.020181
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,17km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:52:21.020361
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,24km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 12:58:22.632343
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,14km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 12:58:22.632533
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,23km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 12:58:22.632715
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 12:58:22.632895
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,20km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 12:58:22.633075
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 12:58:22.634782
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 12:58:22.634967
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 12:58:22.635149
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 12:58:22.635329
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,17km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 12:58:22.635509
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,24km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:04:06.901784
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,14km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:04:06.901973
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,23km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:04:06.902154
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:04:06.902352
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,20km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:04:06.902533
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:04:06.904216
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,10km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:04:06.904402
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:04:06.904582
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:04:06.904763
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,17km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:04:06.904942
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,21km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:09:36.579941
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:09:36.580128
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,21km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:09:36.580309
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:09:36.580488
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,38km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:09:36.580667
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,38km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:09:36.582350
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:09:36.582534
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:09:36.582715
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:09:36.582895
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,15km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:09:36.583091
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,21km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:15:09.306197
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:15:09.306383
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,21km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:15:09.306563
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:15:09.306742
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,38km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:15:09.306921
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,38km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:15:09.308636
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:15:09.308823
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:15:09.309003
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:15:09.309183
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,15km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:15:09.309362
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,21km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:20:38.751701
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:20:38.751891
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,21km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:20:38.752073
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:20:38.752253
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,38km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:20:38.752433
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,38km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:20:38.754113
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:20:38.754298
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:20:38.754479
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:20:38.754660
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,15km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:20:38.754840
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,21km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:26:32.935352
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,24km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:26:32.935542
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,21km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:26:32.935723
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:26:32.935903
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,38km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:26:32.936083
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,38km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:26:32.937765
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,12km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:26:32.937950
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,17km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:26:32.938129
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:26:32.938344
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,15km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:26:32.938527
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,26km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:32:12.080936
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,25km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:32:12.081125
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,26km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:32:12.081307
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,19km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:32:12.081487
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,32km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:32:12.081680
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:32:12.083364
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:32:12.083549
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:32:12.083728
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:32:12.083907
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,27km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:32:12.084087
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,26km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:37:46.041414
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,25km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:37:46.041601
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,26km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:37:46.041781
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,19km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:37:46.041961
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,32km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:37:46.042141
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:37:46.043821
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:37:46.044005
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:37:46.044186
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:37:46.044367
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,27km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:37:46.044562
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,26km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:43:49.414076
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,25km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:43:49.414265
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,26km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:43:49.414446
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,19km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:43:49.414625
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,32km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:43:49.414803
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,27km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:43:49.416488
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:43:49.416672
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:43:49.416852
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:43:49.417031
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,27km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:43:49.417210
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,29km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:50:05.870132
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,16km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:50:05.870320
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,20km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:50:05.870502
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,20km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:50:05.870683
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,15km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:50:05.870863
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:50:05.872569
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:50:05.872754
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:50:05.872935
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,11km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:50:05.873116
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,17km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:50:05.873295
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,29km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 13:57:01.100861
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,16km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 13:57:01.101051
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,20km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 13:57:01.101232
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,20km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 13:57:01.101412
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,15km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 13:57:01.101592
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 13:57:01.103277
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 13:57:01.103462
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,18km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 13:57:01.103640
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,11km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 13:57:01.103820
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,17km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 13:57:01.104001
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,40km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 14:02:38.508725
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,36km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 14:02:38.508918
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,16km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 14:02:38.509101
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 14:02:38.509283
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,26km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 14:02:38.509465
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 14:02:38.511149
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 14:02:38.511332
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 14:02:38.511512
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 14:02:38.511691
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,28km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 14:02:38.511869
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,40km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 14:08:15.958949
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,36km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 14:08:15.959139
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,16km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 14:08:15.959321
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,21km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 14:08:15.959500
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,26km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 14:08:15.959680
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,20km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 14:08:15.961366
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 14:08:15.961551
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,30km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 14:08:15.961731
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,13km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 14:08:15.961912
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,28km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 14:08:15.962092
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,26km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 14:24:27.947912
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,25km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 14:24:27.948167
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,36km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 14:24:27.948399
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,26km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 14:24:27.948622
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,29km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 14:24:27.948843
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,26km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 14:24:27.950926
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,19km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 14:24:27.951152
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 14:24:27.951373
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,15km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 14:24:27.951594
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,19km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 14:24:27.951814
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 14:30:37.820942
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,17km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 14:30:37.821131
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,25km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 14:30:37.821312
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 14:30:37.821493
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 14:30:37.821675
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 14:30:37.823365
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 14:30:37.823550
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 14:30:37.823731
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 14:30:37.823927
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,20km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 14:30:37.824109
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 14:36:15.987433
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,17km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 14:36:15.987620
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,25km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 14:36:15.987802
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 14:36:15.987981
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 14:36:15.988194
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 14:36:15.989888
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 14:36:15.990073
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 14:36:15.990255
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 14:36:15.990435
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,20km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 14:36:15.990617
+Av Sen Virgílio Távora,Av D Luís,Av Pontes Vieira,23km/h,None,<1 min,None,-4284865.790492179,-415716.5290107581,2013-03-08 14:43:15.196424
+Av Sen Virgílio Távora,Av Santos Dumont,Av Pontes Vieira,17km/h,None,<1 min,None,-4285027.92733052,-416221.4440562839,2013-03-08 14:43:15.196612
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,Av Pontes Vieira,25km/h,None,<1 min,None,-4285150.712728865,-416608.6801078714,2013-03-08 14:43:15.196792
+Av Sen Virgílio Távora,Av Antônio Sales,Av Pontes Vieira,22km/h,None,<1 min,None,-4285320.007410462,-417137.39500164567,2013-03-08 14:43:15.196971
+Av Sen Virgílio Távora,Av Pontes Vieira,Av Pontes Vieira,24km/h,None,<1 min,None,-4285481.376144317,-417639.2495339029,2013-03-08 14:43:15.197151
+Av Sen Virgílio Távora,Av Antônio Sales,R Júlio Ibiapina,24km/h,None,<1 min,None,-4285473.127370049,-417644.2584982522,2013-03-08 14:43:15.198871
+Av Sen Virgílio Távora,Av Pe Antônio Tomás,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285312.248441954,-417139.7711796101,2013-03-08 14:43:15.199056
+Av Sen Virgílio Távora,Av Santos Dumont,R Júlio Ibiapina,23km/h,None,<1 min,None,-4285143.799788487,-416611.17898573424,2013-03-08 14:43:15.199236
+Av Sen Virgílio Távora,Av D Luís,R Júlio Ibiapina,16km/h,None,<1 min,None,-4285019.9123271825,-416224.0321695403,2013-03-08 14:43:15.199416
+Av Sen Virgílio Távora,R Júlio Ibiapina,R Júlio Ibiapina,20km/h,None,<1 min,None,-4284858.2875585,-415719.84222488414,2013-03-08 14:43:15.199594
