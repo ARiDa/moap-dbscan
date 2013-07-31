@@ -14,7 +14,7 @@ import arida.ufc.br.moap.core.spi.IDataModel;
 public class DBScanAlgorithm extends IClusteringAlgorithm<Point> {
 
 	private final static List<Integer> defaultColumnsToProcess;
-
+	
 	static {
 		// By default process columns 0 and 1 in this order from each line of the file.
 		defaultColumnsToProcess = new ArrayList<Integer>();
@@ -41,10 +41,9 @@ public class DBScanAlgorithm extends IClusteringAlgorithm<Point> {
 			useDecimalDegrees = false;
 		}
 		
-		String key = (String)params.getParamValue("key");
-		if (key == null) {
-			key = "";
-		}
+		// Key identifica clusters. 
+		// Usado para diferenciar clusters que executam em paralelo.
+		int key = params.getParamValue("key") == null ? 0 : (Integer)params.getParamValue("key");
 		
 		// Required DBScan parameters
 		Double eps = (Double)params.getParamValue("eps");
@@ -85,6 +84,7 @@ public class DBScanAlgorithm extends IClusteringAlgorithm<Point> {
 			//}
 		}
 		
+		IDataModel<PointCluster> dataModel = new DBScanPointDataModel();
 		while ((pos = getUnvisitedPoint(points)) != -1) {
 			points.get(pos).setIsvisited(true);
 			neighborPts = regionQuery(pos, points, eps);
@@ -92,35 +92,22 @@ public class DBScanAlgorithm extends IClusteringAlgorithm<Point> {
 				points.get(pos).setNoise(true);
 			} else {
 				cluster++;
-				String clusterName = key + cluster;
-				points.get(pos).setCluster(clusterName);
+				int clusterId = key + cluster;
+				PointCluster pc = new PointCluster(clusterId);
+				pc.getObjects().add(points.get(pos));
+				dataModel.addInstance(pc);
+				points.get(pos).setCluster(clusterId);
 				points.get(pos).setIscore(true);
-				expandCluster(points, pos, neighborPts, cluster, eps, minPoints, key);
+				expandCluster(points, pos, neighborPts, cluster, eps, minPoints, key, pc);
 			}
 		}
 		System.out.println(points);
-		return convertToMoapDataModel(points);
+		return dataModel;
 	}
 
-	private IDataModel<PointCluster> convertToMoapDataModel(List<Point> points) {
-		DBScanPointDataModel dm = new DBScanPointDataModel();
-
-		int clusterId = 1;
-		PointCluster pc = null;
-		for (Point p : points) {
-			pc = dm.getInstance(p.getCluster());
-			if (pc == null) {
-				pc = new PointCluster(clusterId++);
-				dm.addInstance(p.getCluster(), pc);
-			} 
-			pc.getObjects().add(p);
-		}
-		return dm;
-	}
-	
 	private void expandCluster(List<Point> points, int pos,
 			Set<Integer> neighborPts, int cluster, double eps, int minPoints,
-			String key) {
+			int key, PointCluster pc) {
 		Set<Integer> neighborPts2;
 		Point p;
 		int index = 0;
@@ -140,8 +127,10 @@ public class DBScanAlgorithm extends IClusteringAlgorithm<Point> {
 					// neighborPts.addAll(neighborPts2);
 				}
 			}
-			if (points.get(index).getCluster().equals(""))
+			if (points.get(index).getCluster() == 0) {
 				points.get(index).setCluster(key + cluster);
+				pc.getObjects().add(points.get(index));
+			}
 		}
 	}
 

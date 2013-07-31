@@ -7,7 +7,7 @@ public class Point {
 	private boolean iscore;
 	private int neigh;
 	private boolean isvisited;
-	private String cluster;
+	private int cluster;
 	private boolean isNoise;
 
 
@@ -18,10 +18,9 @@ public class Point {
 		setNeigh(0);
 		setIsvisited(false);
 		setNoise(false);
-		setCluster("");
 	}
 	
-	public Point(double lat, double lon, boolean iscore, int neigh, String cluster, boolean isNoise) {
+	public Point(double lat, double lon, boolean iscore, int neigh, int cluster, boolean isNoise) {
 		setIscore(iscore);
 		setLat(lat);
 		setLon(lon);
@@ -63,11 +62,11 @@ public class Point {
 		this.isvisited = isvisited;
 	}
 	
-	public String getCluster() {
+	public int getCluster() {
 		return cluster;
 	}
 
-	public void setCluster(String cluster) {
+	public void setCluster(int cluster) {
 		this.cluster = cluster;
 	}
 	
@@ -85,7 +84,7 @@ public class Point {
 
 	@Override
 	public String toString() {
-		return cluster;
+		return String.valueOf(cluster);
 		//return "Point [lat=" + lat + ", lon=" + lon + ", iscore=" + iscore
 		//		+ ", neigh=" + neigh + ", isvisited=" + isvisited
 		//		+ ", cluster=" + cluster + ", isNoise=" + isNoise + "]";

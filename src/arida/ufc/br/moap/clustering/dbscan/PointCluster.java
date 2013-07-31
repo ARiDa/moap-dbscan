@@ -28,6 +28,6 @@ public class PointCluster implements ICluster<Point> {
 
 	@Override
 	public String toString() {
-		return points.toString();
+		return "clusterId:" + this.id + " " + points.toString();
 	}
 }
