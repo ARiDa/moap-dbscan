@@ -12,12 +12,8 @@ public class Point {
 
 
 	public Point(double lat, double lon) {
-		setIscore(false);
 		setLat(lat);
 		setLon(lon);
-		setNeigh(0);
-		setIsvisited(false);
-		setNoise(false);
 	}
 	
 	public Point(double lat, double lon, boolean iscore, int neigh, int cluster, boolean isNoise) {

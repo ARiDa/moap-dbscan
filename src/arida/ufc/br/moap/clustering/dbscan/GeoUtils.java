@@ -5,10 +5,16 @@ public class GeoUtils {
     final private static double R_MAJOR = 6378137.0;
     final private static double R_MINOR = 6356752.3142;
 	
-	
+	/**
+	 * Transverse Mercator projection conversions using:
+	 *   Spherical transverse Mercator
+	 *   Ellipsoidal transverse Mercator
+	 */
 	public GeoUtils() {
 	}
 
+	// Spherical Mercator projection
+	// used by OSM (Open Street Map)
 	public static String long2XSpherical(String number) {
 		try {
 			double d = Double.parseDouble(number);
@@ -53,7 +59,8 @@ public class GeoUtils {
 	    return Math.toDegrees(Math.atan(Math.sinh(y / 6378137)));
 	}
 
-    public static double long2XElliptical(double lon) {
+    // 
+	public static double long2XElliptical(double lon) {
         return R_MAJOR * Math.toRadians(lon);
     }
  
